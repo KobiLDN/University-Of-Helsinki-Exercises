@@ -1,0 +1,4 @@
+Time period: 01.01.2020-01.01.2020
+Total minutes: 60
+Average minutes: 60.0
+01.01.2020: 20/20/20
