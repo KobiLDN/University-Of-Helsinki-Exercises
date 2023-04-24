@@ -1,0 +1,19 @@
+The exercise template contains the class definition ExamResult. The class has the following public attributes:
+
+name
+grade1
+grade2
+grade3
+Please write a function named best_results(results: list) which takes a list of ExamResult objects as its argument.
+
+The function should return a new list containing only the best result from each ExamResult object. The function should use a list comprehension to achieve this.
+
+The maximum length of the function is two lines of code, including the header line beginning with the def keyword.
+
+The function should work as follows:
+
+result1 = ExamResult("Peter",5,3,4)
+result2 = ExamResult("Pippa",3,4,1)
+result3 = ExamResult("Paul",2,1,3)
+results = [result1, result2, result3]
+print(best_results(results))
