@@ -1,5 +1,5 @@
 # University-Of-Helsinki-Exercises
-Star date, sometime in Feburary 2023. I want to learn programming, so I did.
+Star date, sometime in Feburary 2023. I wanted to learn programming, so I did.
 
 And you can too.
 
